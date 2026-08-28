@@ -1,0 +1,4 @@
+streamlit
+pymupdf
+gradio_client
+reportlab[pycairo]
